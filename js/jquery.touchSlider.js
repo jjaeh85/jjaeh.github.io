@@ -1,10 +1,4 @@
 /**
- * @name	jQuery.touchSlider
- * @author	dohoons ( http://dohoons.com/ )
- *
- * @version	1.1.4
- * @since	201106
- *
  * @param Object	settings	환경변수 오브젝트
  *		roll			-	순환 (default true)
  *		flexible		-	유동 레이아웃 (default true)
