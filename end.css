@@ -45,6 +45,8 @@ font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFon
 	section .end .title_area {
 		margin-top: 216px;
 		height: 360px;
+		padding-left: 192px;
+		padding-right: 192px;
 		/* background-color: rgba(17, 17, 17, .07);  */
 	}
 
@@ -61,11 +63,24 @@ font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFon
 		border-radius: 28px;	
 		object-fit: cover;
 	}
-
- 	section .contents {
+	section .contents_area {
 		margin-top: 216px;
 		/* background-color: rgba(17, 17, 17, .07); */
+	}
+
+ 	section .contents {
+		margin-top: 92px;
+		padding-left: 192px;
+		padding-right: 192px;
+		/* background-color: rgba(17, 17, 17, .07); */
  	}
+
+	section .imgbox {
+		margin-top: 92px;
+		
+	}
+
+
 
 	.footer {
 		width: 1176px;
@@ -123,10 +138,20 @@ font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFon
 		object-fit: cover;
 	}
 
- 	section .contents {
+	section .contents_area {
 		margin-top: 216px;
 		/* background-color: rgba(17, 17, 17, .07); */
+	}
+
+ 	section .contents {
+		margin-top: 92px;
+		/* background-color: rgba(17, 17, 17, .07); */
  	}
+
+	section .imgbox {
+		margin-top: 92px;
+	}
+
 
 	.footer {
 		width: 100%;
