@@ -183,7 +183,7 @@ font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFon
     body {
         margin: 0px;
         padding: 0px;
-        background-color: #F9F9FB;
+        background-color: #fbf9f8;
     }
 
 	.top {
@@ -194,7 +194,7 @@ font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFon
    		height: 72px;
 		/* border-bottom: 1px solid rgba(17, 17, 17, .05); */
 		backdrop-filter:blur(17px);
-		background-color: rgba(249, 249, 251, .92);
+		background-color: rgba(251, 249, 248, .92);
 	}
 
 	.top .topframe {
